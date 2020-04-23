@@ -10,7 +10,7 @@ import pickle
 from flask import Flask,request
 import numpy as np
 
-with open('rf.pkl','rb') as model_file:#reead binary raed as binary file not as usual file
+with open('rf.pkl','rb') as model_file:#reead binary read as binary file not as usual file
     model=pickle.load(model_file)#loading model pickel file
     #perfectly train model ready to predictions
     
