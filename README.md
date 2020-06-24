@@ -6,3 +6,12 @@
  - flask2.py is one of the basic example of POST request .That returns sum of two numbers.<br/>
  -Request URL:-#localhost:5000
  -Rqeuest Type:-POST
+ 
+ 
+ - flaskrandomforestpickling.py in this file we are building a model and ussing pickle library converting model to object stream.(rf.pkl)
+ 
+- Once we are satisfied with our model we will pickel our model
+- What is pickling?
+- Python Object Can be saved as binary file so we can load it at later point 
+
+
