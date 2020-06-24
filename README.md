@@ -12,6 +12,8 @@
  
          - Once we are satisfied with our model we will pickel our model
          - What is pickling?
-         - Python Object Can be saved as binary file so we can load it at later point 
+         - Python Object Can be saved as binary file so we can load it at later point (rf.pkl file is aslo there in repo)
+         
+    
 
 
