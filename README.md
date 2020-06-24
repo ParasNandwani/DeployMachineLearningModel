@@ -10,8 +10,8 @@
  
  - flaskrandomforestpickling.py in this file we are building a model and ussing pickle library converting model to object stream.(rf.pkl)
  
-- Once we are satisfied with our model we will pickel our model
-- What is pickling?
-- Python Object Can be saved as binary file so we can load it at later point 
+         - Once we are satisfied with our model we will pickel our model
+         - What is pickling?
+         - Python Object Can be saved as binary file so we can load it at later point 
 
 
